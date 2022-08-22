@@ -2,7 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Screenshot_20220817-102554 340](https://user-images.githubusercontent.com/97338597/185834695-dec35c24-9921-4996-a629-210e44b70aa1.jpg)
+[git-cheat-sheet-education.pdf](https://github.com/cansuclaire/kodluyoruzilkrepo/files/9391102/git-cheat-sheet-education.pdf)
+
 
 
 ![github](figures/github.png)
